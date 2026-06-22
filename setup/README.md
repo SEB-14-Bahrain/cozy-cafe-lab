@@ -55,7 +55,7 @@ Add the following to your **`index.html`** file.
   <head>
     <meta charset="utf-8" />
     <title>Cozy Cafe</title>
-    <script defer src="./js/app.js"></script>
+    <script defer src="app.js"></script>
 
     <style>
         header{
