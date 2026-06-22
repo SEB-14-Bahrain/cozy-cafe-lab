@@ -32,16 +32,11 @@ cd cozy-cafe-lab
 ```
 
 
-Create a directory called `js`:
+
+Then, create an `index.html` file, as well as a `app.js` file. These files will hold your work for this lab:
 
 ```bash
-mkdir js
-```
-
-Then, create an `index.html` file, as well as a `app.js` file inside the `js` directory. These files will hold your work for this lab:
-
-```bash
-touch index.html ./js/app.js
+touch index.html app.js
 ```
 
 With the files created, open the contents of the directory in VS Code:
